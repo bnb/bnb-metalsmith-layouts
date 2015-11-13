@@ -1,0 +1,15 @@
+{
+  "name": "bnb-metalsmith-layouts",
+  "version": "0.0.1",
+  "description": "0.0.1",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "&! (bitandbang)",
+  "license": "MIT",
+  "dependencies": {
+    "metalsmith": "^2.1.0",
+    "metalsmith-layouts": "^1.4.1"
+  }
+}
